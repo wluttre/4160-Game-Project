@@ -1,0 +1,24 @@
+Name: William Luttrell
+
+Course: CPSC 4160
+
+Clemson Email Address: wluttre@g.clemson.edu
+
+Project no: 6
+
+Project due date: May 2nd
+
+Project description: A short game the revolves around keeping your torch alight by lighting other torches. You have a time limit to light the next torch before yours goes out, and you lose. The controls are:
+A: move left
+D: move right
+W: jump
+LShift: shoot flare(you only get 5)
+Space: Light torch
+P: pause
+G: god mode
+R: restart
+
+The easiest part of this project: Designing the level was easy, as I had done it ahead of time.
+
+Problems that I had in completing this project: I really wanted to incorporate lighting into the game, but whenever I attempted to implement them, the game would severly lag. I ended up putting too much time into trying to get this to work, and ran out of time to implement other pizzazz features, notably sound, or the lights themselves.
+
