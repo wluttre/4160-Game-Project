@@ -1,3 +1,4 @@
+//Singleton class that implements the clock that all classes use for updates
 #include <cmath>
 #include <iostream>
 #include <string>
