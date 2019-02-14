@@ -1,3 +1,4 @@
+//header file for the flare class, which implements the projectile that players can throw using the space bar
 #ifndef FLARE__H
 #define FLARE__H
 #include <iostream>
