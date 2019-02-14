@@ -1,3 +1,4 @@
+//class that manipulates image data and accesses fields such as the image's width and height
 #include "drawable.h"
 #include "image.h"
 #include "ioMod.h"
