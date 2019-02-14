@@ -1,3 +1,4 @@
+//class that implements the player object that users can control while the game is running
 #include "player.h"
 #include "smartSprite.h"
 #include "gamedata.h"
