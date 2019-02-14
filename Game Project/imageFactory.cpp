@@ -1,3 +1,4 @@
+//class that loads in new images to be used from the assets folder using the factory pattern to avoid repeat loading
 #include "ioMod.h"
 #include "vector2f.h"
 #include "renderContext.h"
