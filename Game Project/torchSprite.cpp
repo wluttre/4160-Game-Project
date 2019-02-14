@@ -1,3 +1,4 @@
+//class that implements the torch object in the game, which the player can interact with.
 #include "torchSprite.h"
 #include "gamedata.h"
 
