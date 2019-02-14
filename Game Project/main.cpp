@@ -1,4 +1,5 @@
 // William Luttrell        Data-Driven Object oriented Game Construction
+//main file that runs the game engine class
 #include "engine.h"
 
 RenderContext* RenderContext::instance = NULL;
