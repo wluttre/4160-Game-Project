@@ -1,3 +1,5 @@
+//class that attaches a light to a specific object in the game
+//CURRENTLY NOT USED
 #include "lightSource.h"
 #include "gamedata.h"
 #include "viewport.h"
