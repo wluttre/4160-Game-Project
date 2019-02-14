@@ -1,3 +1,4 @@
+//creates a game object that has a single static image for its sprite
 #include <cmath>
 #include <random>
 #include <functional>
