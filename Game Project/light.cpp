@@ -1,3 +1,5 @@
+//class that implements a lighting algorithm for the game
+//CURRENTLY NOT USED
 #include <SDL.h>
 #include <cmath>
 #include <cstdlib>
