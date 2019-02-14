@@ -1,3 +1,4 @@
+//class that reads and splits images with multiple frames of a sprite animation into individual sprites
 #include "spriteSheet.h"
 
 SDL_Surface* cropSurface(SDL_Surface* surf,
