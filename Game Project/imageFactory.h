@@ -1,3 +1,4 @@
+//header file for the image factory class that is responsible for loading image assets
 #include <string>
 #include <vector>
 #include <map>
