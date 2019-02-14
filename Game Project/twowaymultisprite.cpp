@@ -1,3 +1,4 @@
+//implements a game object that has a left and right facing animation, and plays the animation that corresponds with its velocity
 #include "twowaymultisprite.h"
 #include "gamedata.h"
 #include "renderContext.h"
