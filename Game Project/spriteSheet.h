@@ -1,3 +1,4 @@
+//header file of the spritesheet class, which splits spritesheets into individual images
 #ifndef __UNPACK_H__
 #define __UNPACK_H__
 
