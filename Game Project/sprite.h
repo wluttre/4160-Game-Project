@@ -1,3 +1,4 @@
+//header file for the sprite class that inherits from drawable
 #ifndef SPRITE__H
 #define SPRITE__H
 #include <string>
