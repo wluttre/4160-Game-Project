@@ -1,3 +1,4 @@
+//class that creates an entity that has a rudimentary AI designed to avoid the player
 #include <cmath>
 #include <random>
 #include <functional>
