@@ -1,3 +1,4 @@
+//implementation of the "flare" object that the player can throw using the space bar
 #include <iostream>
 #include <cmath>
 #include "flare.h"
