@@ -1,3 +1,4 @@
+//Header file for the class implementing sprite "chunks" for an exploding sprite
 #ifndef CHUNK__H
 #define CHUNK__H
 
