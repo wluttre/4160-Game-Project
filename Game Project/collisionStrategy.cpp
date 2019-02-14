@@ -1,3 +1,4 @@
+//file containing multiple implementations for detecting collision
 #include <vector>
 #include <algorithm>
 #include "ioMod.h"
