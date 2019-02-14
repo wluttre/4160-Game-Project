@@ -1,3 +1,4 @@
+//header file for the clock class
 #include <SDL.h>
 #include <string>
 
@@ -10,7 +11,7 @@ public:
 
 private:
   friend class Engine;
-  ///lazy, clean up later
+
   friend class Viewport;
 
   bool started;
