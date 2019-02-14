@@ -1,3 +1,4 @@
+//header file for the viewport class, which follows the player and contains the bounds of the current viewable area of the world
 #ifndef VIEWPORT__H
 #define VIEWPORT__H
 #include "drawable.h"
