@@ -1,3 +1,4 @@
+//header file for the twowaymultisprite class, that implements a directional, animated sprite
 #ifndef TWOWAYSPRITE__H
 #define TWOWAYSPRITE__H
 #include <string>
