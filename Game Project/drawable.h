@@ -1,3 +1,4 @@
+//abstract base class for all entities within the game that are drawn with sprites
 #ifndef DRAWABLE__H
 #define DRAWABLE__H
 #include <SDL.h>
