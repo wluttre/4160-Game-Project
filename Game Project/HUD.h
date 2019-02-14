@@ -1,3 +1,4 @@
+//Header file of the class implementing UI elements
 #ifndef HUD__H
 #define HUD__H
 
