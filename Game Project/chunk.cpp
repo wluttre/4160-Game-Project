@@ -1,3 +1,4 @@
+//Implementing Sprite "chunk" class of an exploding sprite
 #include <iostream>
 #include <cmath>
 
