@@ -1,3 +1,4 @@
+//class that contains the overall game world size and contains the viewport
 #include <iostream>
 #include "world.h"
 #include "renderContext.h"
