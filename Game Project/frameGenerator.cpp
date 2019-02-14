@@ -1,3 +1,4 @@
+//file that is used to record frames of the game as it plays, in order to create a video of gameplay during execution
 #include <sys/stat.h>
 #include <iostream>
 #include <string>
