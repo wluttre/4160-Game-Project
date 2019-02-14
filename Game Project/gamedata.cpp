@@ -1,3 +1,4 @@
+//class responsible for interfacing with the xml file for retrieving relevant game data
 #include <sstream>
 #include <iostream>
 #include <limits>
