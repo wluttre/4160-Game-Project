@@ -1,9 +1,7 @@
+//header file for the render context class, which prepares the renderer and window for the game
 #include <iostream>
 #include <SDL.h>
 #include "imageFactory.h"
-
-// These global constants should be eliminated; they
-// should be read from xmlSpec/game.xml
 
 class RenderContext{
 public:
