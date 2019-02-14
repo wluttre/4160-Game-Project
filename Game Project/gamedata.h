@@ -1,3 +1,4 @@
+//header file for the game data class which interfaces with the xml file
 #ifndef GAMEDATA__H
 #define GAMEDATA__H
 #include <string>
