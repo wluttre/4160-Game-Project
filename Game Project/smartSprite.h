@@ -1,3 +1,4 @@
+//header file of the smart sprite class, which imlements a game character with a rudimentary avoidance AI
 #ifndef SMARTSPRITE__H
 #define SMARTSPRITE__H
 #include <string>
