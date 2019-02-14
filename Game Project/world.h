@@ -1,3 +1,4 @@
+//header file of the world class, which contains the overall game world and the viewport
 #include <string>
 #include "image.h"
 #include "viewport.h"
@@ -5,7 +6,6 @@
 class World {
 public:
   World(const std::string& name, int fact);
-  // ~World() { } // The image will be deleted by the FrameFactory
   void update();
   void draw() const;
 private:
