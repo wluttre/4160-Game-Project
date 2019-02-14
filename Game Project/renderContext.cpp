@@ -1,3 +1,4 @@
+//file that prepares the renderer and window that the game runs in
 #include "renderContext.h"
 #include "gamedata.h"
 
