@@ -1,3 +1,4 @@
+//header file for the torchsprite class, which creates the torch object in the game
 #ifndef TORCHSPRITE__H
 #define TORCHSPRITE__H
 #include <string>
