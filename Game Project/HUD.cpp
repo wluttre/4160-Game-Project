@@ -1,3 +1,4 @@
+//Displays UI elements to the screen
 #include "HUD.h"
 #include "gamedata.h"
 #include "ioMod.h"
