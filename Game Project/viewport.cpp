@@ -1,3 +1,4 @@
+//class that tracks the player object within the world, and is the view that is currently output to the screen
 #include <sstream>
 #include "viewport.h"
 #include "ioMod.h"
