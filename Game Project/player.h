@@ -1,3 +1,4 @@
+//header file of the player class, which creates the player object of the game
 #ifndef PLAYER__H
 #define PLAYER__H
 #include <SDL.h>
