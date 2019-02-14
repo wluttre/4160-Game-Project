@@ -1,3 +1,4 @@
+//header file for the triple class, which implements a vector with three elements and a number of helper functions, including various operator overrides
 #ifndef _TRIPLE_H_
 #define _TRIPLE_H_
 
