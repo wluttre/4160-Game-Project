@@ -1,3 +1,5 @@
+//Header file for the light class, that implements a lighting algorithm
+//CURRENTLY NOT USED
 #ifndef _LIGHT_H_
 #define _LIGHT_H_
 
