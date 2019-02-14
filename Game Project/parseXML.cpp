@@ -1,3 +1,4 @@
+//class that parses the xml file
 #include <cstring>
 #include <sstream>
 #include "parseXML.h"
