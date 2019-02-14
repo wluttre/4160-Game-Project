@@ -1,3 +1,4 @@
+//header file for the vector2f class, which implements a vector composed of two floats, along with several helper functions
 #ifndef VECTOR2F__H
 #define VECTOR2F__H
 
