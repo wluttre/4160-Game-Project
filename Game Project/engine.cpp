@@ -1,3 +1,4 @@
+//file that initializes the game and contains the main gameplay loop
 #include <iostream>
 #include <algorithm>
 #include <sstream>
