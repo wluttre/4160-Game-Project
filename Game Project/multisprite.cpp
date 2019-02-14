@@ -1,3 +1,4 @@
+//class that creates a sprite that cycles through multiple images, creating an animation
 #include "multisprite.h"
 #include "gamedata.h"
 #include "renderContext.h"
