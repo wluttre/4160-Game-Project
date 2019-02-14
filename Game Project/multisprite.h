@@ -1,3 +1,4 @@
+//header file for the multisprite class, that inherits from Drawable
 #ifndef MULTISPRITE__H
 #define MULTISPRITE__H
 #include <string>
