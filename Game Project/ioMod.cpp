@@ -1,3 +1,4 @@
+//class that displays text to the game screen at an x and y location
 #include <SDL_image.h>
 #include "ioMod.h"
 #include "gamedata.h"
