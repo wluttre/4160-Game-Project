@@ -1,3 +1,5 @@
+//header file for the lightsource class that links a light with an object in the game
+//CURRENTLY NOT USED
 #ifndef LIGHTSOURCE__H
 #define LIGHTSOURCE__H
 #include <SDL.h>
