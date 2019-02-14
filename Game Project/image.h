@@ -1,3 +1,4 @@
+//header file for the image class that is responsible for manipulating image data
 #ifndef IMAGE__H
 #define IMAGE__H
 
