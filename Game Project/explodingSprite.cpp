@@ -1,3 +1,4 @@
+//implementation of the exploding sprite class, which breaks a sprite into small pieces (see chunk.cpp) using object pooling
 #include <iostream>
 #include <cmath>
 #include "explodingSprite.h"
