@@ -1,3 +1,4 @@
+//class that contains 3 integers, and creates a small library of vector function that can be applied to them.
 #include <cmath>
 #include <sstream>
 #include <string>
