@@ -1,4 +1,4 @@
-// This is the "pointers" example in the Brian example
+//the header file for exploding sprite, child class of Sprite
 
 #include <vector>
 #include <list>
