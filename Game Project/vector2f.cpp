@@ -1,3 +1,4 @@
+//class that implements a length two vector using floats, as well as various helper functions and overloaded operators
 #include <cmath>
 #include <string>
 #include <iostream>
