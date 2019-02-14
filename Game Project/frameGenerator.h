@@ -1,3 +1,4 @@
+//header file of the frame generator class
 #include <string>
 #include <SDL.h>
 
