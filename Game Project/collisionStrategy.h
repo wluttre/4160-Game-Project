@@ -1,3 +1,4 @@
+//header file for collision detection class
 #include <cmath>
 #include "drawable.h"
 
